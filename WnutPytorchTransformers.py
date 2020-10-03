@@ -2,7 +2,7 @@
 Model that forms our submission to the WNUT-2020 Task 2.
 Results were achieved running on a AWS EC2 p2 spot instance.
 
-Experiments were run utilising the TestManager script.
+Experiments were run utilising the ExperimentManager script.
 """
 
 import transformers
