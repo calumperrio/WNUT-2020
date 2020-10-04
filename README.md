@@ -7,8 +7,9 @@ This directory sets out the model that formed our submission to the Workshop on 
 We include:
 
 * The model - WnutPytorchTransformers.py
-* The datasets
 * The script used to schedule running experiments
+
+The data used in respect of this work is obtainable at https://github.com/VinAIResearch/COVID19Tweet
 
 ### Information
 
