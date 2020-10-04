@@ -9,7 +9,7 @@ We include:
 * The model - WnutPytorchTransformers.py
 * The script used to schedule running experiments
 
-The data used in respect of this work is obtainable at https://github.com/VinAIResearch/COVID19Tweet
+The data used in respect of this work is obtainable from https://github.com/VinAIResearch/COVID19Tweet
 
 ### Information
 
